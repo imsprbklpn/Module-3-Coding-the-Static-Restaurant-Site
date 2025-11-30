@@ -1,0 +1,7 @@
+/* Tall section to force scrolling */
+.tall-section {
+  background-color: #f1f1f1;
+  height: 1000px;
+  padding: 20px;
+  font-size: 18px;
+}
